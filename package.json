@@ -1,0 +1,13 @@
+{
+  "name": "filerobot-image-editor",
+  "version": "3.8.1",
+  "description": "filerobot-image-editor",
+  "homepage": "filerobot-image-editor",
+  "main": "dist/filerobot-image-editor.min.js",
+  "repository": "s",
+  "author": "d",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ]
+}
